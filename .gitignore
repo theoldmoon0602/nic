@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/nic
+nic.so
+nic.dylib
+nic.dll
+nic.a
+nic.lib
+nic-test-*
+*.exe
+*.o
+*.obj
+*.lst
